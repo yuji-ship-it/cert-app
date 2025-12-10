@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='fjanednijjmchmbidacppipfafbmbfcj'>
+  <app appid='elhaoipiejkjedinabkeogdnmobhekpm'>
     <updatecheck codebase='https://yuji-ship-it.github.io/cert-app/cert-app_device/cert-installer_device.crx' version='1.0' />
   </app>
 </gupdate>

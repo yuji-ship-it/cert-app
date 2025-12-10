@@ -1,7 +1,0 @@
-ID:blfcphmfkmpbmdbgkcghgdlpehmbodpb
-https://yuji-ship-it.github.io/cert-app/cert-app_device/updates.xml
-
-[デバイス] > [Chrome] > [設定] > [デバイス設定] > Manifest v2 拡張機能のログイン画面での提供状況
-
-Manifest v2 拡張機能をログイン画面で有効にする
-自動インストールされたManifest v2 拡張機能をログイン画面で有効にする
